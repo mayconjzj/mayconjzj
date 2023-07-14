@@ -1,14 +1,21 @@
 ### Olá me chamo Maycon! 👋
 
-Sou um estudante de Front-End dedicado e apaixonado por criar experiências digitais incríveis. Estou sempre em busca de aprimorar minhas habilidades e aprender novas técnicas para me destacar nessa área em constante evolução.
+<p align="center">Sou um estudante de Front-End dedicado e apaixonado por criar experiências digitais incríveis. Estou sempre em busca de aprimorar minhas habilidades e aprender novas técnicas para me destacar nessa área em constante evolução.</p>
 
 ![Maycon Douglas, GitHub Status!](https://github-readme-stats.vercel.app/api?username=mayconjzj&show_icons=true&theme=synthwave)
 
+##
+
+<br>
+
 <img
+  right
   width="400px"
   src="https://a.imagem.app/bXtkt2.gif"
   alt="Gif"
 />
+
+<br>
 
 #### Tecnologias Do Meu Dia 💻
 
