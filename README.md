@@ -22,6 +22,4 @@
 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
-[![Status](https://github-readme-stats.vercel.app/api?username=mayconjzj&theme=blue-green)]()
-
-[![Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconzjzj&theme=blue-green)]()
+[![Status](https://github-readme-stats.vercel.app/api?username=mayconjzj&theme=white-blue)]()
