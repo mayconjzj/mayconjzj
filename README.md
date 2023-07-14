@@ -6,7 +6,7 @@
 
 <img
   align="right"
-  width="360px"
+  width="200px"
   src="https://a.imagem.app/bXtkt2.gif"
   alt="Gif"
 />
@@ -74,6 +74,8 @@
         alt="Git"
       />
 <div>
+
+<br>
 
 #### Metas 🎯
 - 🧠 Dominar <strong>React.js</strong> e <strong>Next.js</strong> para criação de aplicações avançadas.
