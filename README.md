@@ -5,7 +5,7 @@ Sou um estudante de Front-End dedicado e apaixonado por criar experiências digi
 ![Maycon Douglas, GitHub Status!](https://github-readme-stats.vercel.app/api?username=mayconjzj&show_icons=true&theme=synthwave)
 
 <img
-  width="100%"
+  width="400px"
   src="https://a.imagem.app/bXtkt2.gif"
   alt="Gif"
 />
