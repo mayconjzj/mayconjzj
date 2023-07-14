@@ -4,19 +4,6 @@
 
 ##
 
-<br>
-
-<img
-  align="right"
-  width="360px"
-  src="https://a.imagem.app/bXtkt2.gif"
-  alt="Gif"
-/>
-
-<br>
-
-##
-
 #### Tecnologias Do Meu Dia 💻
 
 <div align="center">
