@@ -2,25 +2,19 @@
 
 <p align="center">Sou um estudante de Front-End dedicado e apaixonado por criar experiências digitais incríveis. Estou sempre em busca de aprimorar minhas habilidades e aprender novas técnicas para me destacar nessa área em constante evolução.</p>
 
-![Maycon Douglas, GitHub Status!](https://github-readme-stats.vercel.app/api?username=mayconjzj&show_icons=true&theme=synthwave)
-
-##
-
-<br>
+#
 
 <img
-  right
-  width="400px"
+  align="right"
+  width="360px"
   src="https://a.imagem.app/bXtkt2.gif"
   alt="Gif"
 />
 
-<br>
-
 #### Tecnologias Do Meu Dia 💻
 
 <div>
-  <ul>
+  <ul display="flex">
     <li>
       <img 
         width="80" 
@@ -102,6 +96,22 @@
     </li>
   </ul>      
 <div>
+
+#### Metas 🎯
+- Dominar <strong>React.js</strong> e <strong>Next.js</strong> para criação de aplicações avançadas.
+- Aprimorar habilidades em <strong>CSS</strong> para estilos responsivos e avançados.
+- Aprender e aplicar <strong>testes de unidade</strong> e integração em projetos <strong>React.js</strong>.
+- <strong>Otimizar desempenho</strong> de aplicações com técnicas avançadas.
+- Acompanhar tendências e <strong>melhores práticas</strong> do setor continuamente.
+- Construir projetos reais para <strong>fortalecer</strong> habilidades e portfólio.
+
+#
+
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=mayconjzj&show_icons=true&theme=synthwave"
+  alt="Status"
+ />
 
 #### Cloud ☁️
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
