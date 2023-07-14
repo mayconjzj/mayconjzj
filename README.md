@@ -2,92 +2,103 @@
 
 <p align="center">Sou um estudante de Front-End dedicado e apaixonado por criar experiências digitais incríveis. Estou sempre em busca de aprimorar minhas habilidades e aprender novas técnicas para me destacar nessa área em constante evolução.</p>
 
-#
+##
+
+<br>
 
 <img
   align="right"
-  width="200px"
+  width="360px"
   src="https://a.imagem.app/bXtkt2.gif"
   alt="Gif"
 />
 
+<br>
+
+##
+
 #### Tecnologias Do Meu Dia 💻
 
 <div align="center">
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
-        alt="NextJS"/>
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-        alt="ReactJS"
-        />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
-        alt="TypeScript"
-      />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
-        alt="JavScript"
-      />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
-        alt="NodeJS"
-      />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" 
-        alt="Styled Components"
-      />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" 
-        alt="TailwindCSS"
-      />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-        alt="HTML"
-      />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-        alt="CSS"
-      />
-      <img 
-        width="80" 
-        align="center"
-        src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
-        alt="Git"
-      />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+    alt="NextJS"/>
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    alt="ReactJS"
+   />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" 
+    alt="TypeScript"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    alt="JavScript"
+   />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
+    alt="NodeJS"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" 
+    alt="Styled Components"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" 
+    alt="TailwindCSS"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+    alt="HTML"
+   />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+    alt="CSS"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
+    alt="Git"
+  />
 <div>
 
-<br>
+##
 
-#### Metas 🎯
-- 🧠 Dominar <strong>React.js</strong> e <strong>Next.js</strong> para criação de aplicações avançadas.
-- 🚀 Aprimorar habilidades em <strong>CSS</strong> para estilos responsivos e avançados.
-- 🔍 Aprender e aplicar <strong>testes de unidade</strong> e integração em projetos <strong>React.js</strong>.
-- 🔭 <strong>Otimizar desempenho</strong> de aplicações com técnicas avançadas.
-- 🌎 Acompanhar tendências e <strong>melhores práticas</strong> do setor continuamente.
-- 🤖 Construir projetos reais para <strong>fortalecer</strong> habilidades e portfólio.
+<div align="left">
+  
+  #### Metas 🎯
+  
+  - 🧠 Dominar <strong>React.js</strong> e <strong>Next.js</strong> para criação de aplicações avançadas.
+  - 🚀 Aprimorar habilidades em <strong>CSS</strong> para estilos responsivos e avançados.
+  - 🔍 Aprender e aplicar <strong>testes de unidade</strong> e integração em projetos <strong>React.js</strong>.
+  - 🔭 <strong>Otimizar desempenho</strong> de aplicações com técnicas avançadas.
+  - 🌎 Acompanhar tendências e <strong>melhores práticas</strong> do setor continuamente.
+  - 🤖 Construir projetos reais para <strong>fortalecer</strong> habilidades e portfólio.
+
+</div>
 
 #### 📫 Contatar-me
 
-
+<strong>[maycondouglas@email.com](https://mayconxrz@gmail.com)</strong>
 
 #
 
