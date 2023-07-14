@@ -1,13 +1,13 @@
-# Olá eu sou o Maycon Douglas! 👋
+### Olá eu sou o Maycon Douglas! 👋
 
-## Redes Socias 💁
+#### Redes Socias 💁
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mayconxrz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayconjzj)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 ![Maycon Douglas, GitHub Status!](https://github-readme-stats.vercel.app/api?username=mayconjzj&show_icons=true&theme=synthwave)
 
-## Tecnologias Do Meu Dia 💻
+#### Tecnologias Do Meu Dia 💻
 
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -20,5 +20,5 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Cloud ☁️
+#### Cloud ☁️
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
