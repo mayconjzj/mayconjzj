@@ -76,7 +76,6 @@
   
   - 🧠 Dominar <strong>React.js</strong> e <strong>Next.js</strong> para criação de aplicações avançadas.
   - 🚀 Aprimorar habilidades em <strong>CSS</strong> para estilos responsivos e avançados.
-  - 🔍 Aprender e aplicar <strong>testes de unidade</strong> e integração em projetos <strong>React.js</strong>.
   - 🔭 <strong>Otimizar desempenho</strong> de aplicações com técnicas avançadas.
   - 🌎 Acompanhar tendências e <strong>melhores práticas</strong> do setor continuamente.
   - 🤖 Construir projetos reais para <strong>fortalecer</strong> habilidades e portfólio.
