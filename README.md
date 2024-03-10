@@ -4,7 +4,7 @@
 
 ##
 
-#### Tecnologias Do Meu Dia 💻
+#### Tecnologias Do Meu Dia a Dia 💻
 
 <div align="center">
   <img 
