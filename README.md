@@ -4,14 +4,17 @@
 
 ##
 
-#### Tecnologias Do Meu Dia a Dia 💻
+### Tecnologias Do Meu Dia a Dia 💻
 
-<div align="center">
-  <img 
+#### Front-End
+
+<div align="left">
+   <img 
     width="80" 
     align="center"
     src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
-    alt="NextJS"/>
+    alt="NextJS"
+   />
   <img 
     width="80" 
     align="center"
@@ -19,17 +22,58 @@
     alt="ReactJS"
    />
   <img 
-    width="80" 
+    width="80"
     align="center"
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" 
-    alt="TypeScript"
+    src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white"
+    alt="RadixUI"
+  />
+  <img 
+    width="80"
+    align="center"
+    src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"
+    alt="React-Query"
+  />
+  <img 
+    width="80"
+    align="center"
+    src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+    alt="React-Router"
+  />
+  <img 
+    width="80"
+    align="center"
+    src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"
+    alt="React-Hook-Form"
   />
   <img 
     width="80" 
     align="center"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
-    alt="JavScript"
+    src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" 
+    alt="Styled Components"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" 
+    alt="TailwindCSS"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+    alt="HTML"
    />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+    alt="CSS"
+  />
+</div>
+
+#### Back-end
+
+<div align="left">
   <img 
     width="80" 
     align="center"
@@ -72,6 +116,30 @@
     src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"
     alt="Nodemon"
   />
+  
+  <img 
+    width="80"
+    align="center"
+    src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
+    alt="Prisma"
+  />
+</div>
+
+#### Outras
+
+<div align="left">
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" 
+    alt="TypeScript"
+  />
+  <img 
+    width="80" 
+    align="center"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    alt="JavScript"
+   />
   <img 
     width="80"
     align="center"
@@ -81,74 +149,14 @@
   <img 
     width="80"
     align="center"
-    src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white"
-    alt="RadixUI"
-  />
-  <img 
-    width="80"
-    align="center"
-    src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"
-    alt="React-Query"
-  />
-  <img 
-    width="80"
-    align="center"
-    src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
-    alt="React-Router"
-  />
-  <img 
-    width="80"
-    align="center"
-    src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"
-    alt="React-Hook-Form"
+    src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
+    alt="Eslint"
   />
   <img 
     width="80"
     align="center"
     src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
     alt="Vite"
-  />
-  <img 
-    width="80"
-    align="center"
-    src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
-    alt="Prisma"
-  />
-  <img 
-    width="80"
-    align="center"
-    src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
-    alt="Eslint"
-  />
-  <img 
-    width="80"
-    align="center"
-    src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
-    alt="Eslint"
-  />
-  <img 
-    width="80" 
-    align="center"
-    src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" 
-    alt="Styled Components"
-  />
-  <img 
-    width="80" 
-    align="center"
-    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" 
-    alt="TailwindCSS"
-  />
-  <img 
-    width="80" 
-    align="center"
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-    alt="HTML"
-   />
-  <img 
-    width="80" 
-    align="center"
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-    alt="CSS"
   />
   <img 
     width="80" 
