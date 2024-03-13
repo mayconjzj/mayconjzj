@@ -49,6 +49,9 @@
 
 </div>
 
+<div align="center">
+
+  
 #### 📫 Contatar-me
 
 <strong>[maycondouglas@email.com](https://mayconxrz@gmail.com)</strong>
@@ -67,3 +70,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayconjzj)
 
 "Transformando linhas de código em soluções que impulsionam o mundo."
+
+</div>
