@@ -2,12 +2,12 @@
 
 <div>
   <img
-     height="180em"
+     width="100%"
      alt="Stats"
      src="https://github-readme-stats.vercel.app/api?username=mayconjzj&show_icons=true&theme=transparent"  
    />
    <img
-      height="180em"
+      width="100%"
       alt="Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mayconjzj&show_icons=true&theme=transparent"
    />
