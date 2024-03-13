@@ -1,3 +1,19 @@
+## Olá! me chamo Maycon Douglas
+
+<div>
+  <img
+     height="180em"
+     alt="Stats"
+     src="https://github-readme-stats.vercel.app/api?username=mayconjzj&show_icons=true&theme=transparent"  
+   />
+   <img
+      height="180em"
+      alt="Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mayconjzj&show_icons=true&theme=transparent"
+   />
+</div>
+
+
 ### Olá me chamo Maycon! 👋
 
 <p align="center">Sou um estudante de Front-End dedicado e apaixonado por criar experiências digitais incríveis. Estou sempre em busca de aprimorar minhas habilidades e aprender novas técnicas para me destacar nessa área em constante evolução.</p>
